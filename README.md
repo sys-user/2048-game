@@ -24,7 +24,7 @@
 
 ## 🖥️ 游戏截图
 
-![Game Screenshot](https://raw.githubusercontent.com/your-username/2048-game/main/screenshots/screenshot.png)
+![Game Screenshot](https://raw.githubusercontent.com/sys-user/2048-game/main/screenshots/screenshot.png)
 
 ## 🚀 如何贡献
 
